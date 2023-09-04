@@ -50,6 +50,6 @@ Vesta Finance is a promising DeFi lending protocol that offers a number of featu
 - Liquidations that help to protect the value of VST and the stability pool.
 - A saving module that allows users to earn interest on their VST.
 - A fee revenue model that is designed to be sustainable in the long term.
- -An emergency reserve that protects users in the event of a shortfall event.
+- An emergency reserve that protects users in the event of a shortfall event.
   
 Overall, Vesta Finance is a well-designed protocol that has the potential to be a major player in the DeFi lending space. However, it is still a relatively new project, and it will be important to monitor its performance over time to see how it fares in the real world.
