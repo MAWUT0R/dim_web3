@@ -1,6 +1,6 @@
 **Introduction**
 
-[Vesta Finance](https://vestafinance.xyz/){:target="_blank"} is a platform that provides overcollateralized stablecoin loans on Arbitrum. With ETH, ARB, GMX, and more, users could take loans in VST, Vesta’s native stablecoin, up to a minimum collateralization ratio of 110%. This means that a user with $1,000 worth of underlying collateral in a vault can borrow (issue) up to 909.09 VST, which is freely exchangeable between wallets with or without an open vault at Vesta. In this piece, we’ll be making an in-depth assessment of Vesta Finance, including its stablecoin peg mechanism, liquidations, and overall operations of the debt platform.
+<a href="https://vestafinance.xyz/" target="_blank">Vesta Finance</a> is a platform that provides overcollateralized stablecoin loans on Arbitrum. With ETH, ARB, GMX, and more, users could take loans in VST, Vesta’s native stablecoin, up to a minimum collateralization ratio of 110%. This means that a user with $1,000 worth of underlying collateral in a vault can borrow (issue) up to 909.09 VST, which is freely exchangeable between wallets with or without an open vault at Vesta. In this piece, we’ll be making an in-depth assessment of Vesta Finance, including its stablecoin peg mechanism, liquidations, and overall operations of the debt platform.
 
 
 **Peg Mechanism**
